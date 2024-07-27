@@ -1,0 +1,78 @@
+body {
+  background-color: #373b40;
+}
+
+header nav {
+  color: white !important;
+  top: 50px !important;
+  background-color: #373b40;
+  width: 90%;
+  margin: 20px 20px 20px 100px;
+  padding: 10px;
+  border-radius: 80px;
+}
+header nav ul li a {
+  color: white !important;
+}
+header nav .navbar-brand {
+  color: white !important;
+}
+
+main {
+  color: white;
+}
+main .col-5,
+main .col-7 {
+  padding: 0 !important;
+}
+main img {
+  width: 100%;
+}
+main .divShrjan {
+  position: relative;
+}
+main .divShrjan .shrjan {
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+  background-color: #373b40;
+  text-align: center;
+  position: absolute;
+  top: 247px;
+  top: 200px;
+  left: -220px;
+  color: white;
+  padding: 110px 20px 20px 20px;
+}
+main .divShrjan .shrjan h1 {
+  font-size: 60px;
+}
+main .sec1 {
+  padding: 55% 50px 50px 50px;
+}
+main .sec2 {
+  border-top: 1px solid grey;
+  padding: 50px;
+}
+main .sec3 {
+  border-top: 1px solid grey;
+  padding: 50px;
+}
+main .sec4 {
+  border-top: 1px solid grey;
+  padding: 50px;
+}
+main .sec5 {
+  border-top: 1px solid grey;
+  padding: 50px;
+}
+
+.sec3 .cold div {
+  margin: 40px;
+  padding: 10px;
+}
+
+.sec6 {
+  border-top: 1px solid grey;
+  padding: 50px;
+}
